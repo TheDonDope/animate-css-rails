@@ -27,7 +27,7 @@ Or install it yourself as:
 However, if you use SASS i advise you to create a specific `animate_and_overrides.css.scss` file
 and include the `animate.css` via an Import statement:
     
-    @Import 'animate';
+    @import 'animate';
 
 ## Contributing
 
