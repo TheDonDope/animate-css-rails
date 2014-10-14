@@ -4,6 +4,8 @@ This gem is a simple wrapper around the animate.css
 It is bundled as a gem to be able to include this 3rd party asset into the asset pipeline, without having to locally import the actual CSS and JavaScript into your project.
 Please see http://daneden.github.io/animate.css/ for the original css.
 
+# [![Gem Version](https://badge.fury.io/rb/animate-css-rails.svg)](http://badge.fury.io/rb/animate-css-rails)
+
 ## Installation
 
 Add this line to your application's Gemfile:
